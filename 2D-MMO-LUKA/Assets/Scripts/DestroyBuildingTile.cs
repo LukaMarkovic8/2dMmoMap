@@ -52,6 +52,7 @@ public class DestroyBuildingTile : MonoBehaviour
         tile.level = 0;
         mapGenerator.CurrentTiles[pos].GetComponent<SpriteRenderer>().sprite = grassSprite;
 
+        mapInteraction.names.Remove(tile.position);
 
         //changing the number of buildings
         mapInteraction.buildingsCount--;

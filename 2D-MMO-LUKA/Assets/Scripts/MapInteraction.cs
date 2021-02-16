@@ -74,6 +74,7 @@ public class MapInteraction : MonoBehaviour
             //Creating the obj
             GameObject name = Instantiate(nameTxt, new Vector2(key.x, key.y), Quaternion.identity);
             name.GetComponent<TextMeshPro>().text = DataController.dc.tileMap[key.x, key.y].type;
+            names.Add(key,name);
         }
 
         //checking if the tile is destroyable

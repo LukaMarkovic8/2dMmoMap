@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 5}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 519
     width: 1105
     height: 428
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -101,7 +101,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 463}
   m_MaxSize: {x: 4001, y: 12063}
   vertical: 1
-  controlID: 38
+  controlID: 73
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 58
+  controlID: 72
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 19
+  controlID: 119
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,8 +325,8 @@ MonoBehaviour:
     y: 0
     width: 431
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -487,7 +487,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 270, y: 132, z: 0}
     speed: 2
-    m_Value: {x: 370.3, y: 339.4, z: 0}
+    m_Value: {x: 270, y: 132, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 92840000
-      m_LastClickedID: 33938
-      m_ExpandedIDs: 9ec857ffe0c857fff8c857ff02c957ff0ac957ff78c957ff90c957ffa0ca57ffa4ca57ff80f65aff8eac60ff7cb264ff5eb465ffdab565fff2b565ff04b765ff08b765ff242769ffa42769ffd62869ff0e6669ff88a369ff16086eff9e1470ff8e7072ff3a4273ffb8f873ff847b76ffb63d79ff40ea7affd60386ff44c586ffb45c8eff38e493ffa08e97fff4fb9dff8c0ba4ff7697a5ffd841a7ff92c2b8ff34c4c7fffaa5ceffbc07daffa258e0ffb021e6ff9e3ae7ffdabbeaffee24eeffe235f0fffac6f1ff7e91f2ff2495f4ffc898f5ff949bf5ff7e9cf5ff641df6ff84def6ff765ff7ff72e0f7fffe80f8ffd802f9ff8243faffe0e4faffca65fbffe6cefdff1cf1feff6efbfeff6854ffffeaadffff8af7ffffc0f9ffff58fbffffe874000010750000447700006c770000ba7b0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 42a9ffff5aa9ffff6eaaffff76aaffffbafaffff58fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -718,21 +718,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Luka\Desktop\AlsetSutrioTest\2D-MMO-LUKA
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 143e0000
-    m_LastClickedID: 15892
-    m_ExpandedIDs: 00000000c23d0000c43d0000123e0000143e000000ca9a3b
+    m_SelectedIDs: d63e0000
+    m_LastClickedID: 16086
+    m_ExpandedIDs: 00000000d43e0000d63e0000d83e0000da3e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -760,7 +760,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c23d0000c43d0000
+    m_ExpandedIDs: 00000000d43e0000d63e0000d83e0000da3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -791,18 +791,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 000000006a4d00006e4d0000aa42000096410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: DestroyAfterTime
-      m_OriginalName: DestroyAfterTime
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12590
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_CreateAssetUtility:

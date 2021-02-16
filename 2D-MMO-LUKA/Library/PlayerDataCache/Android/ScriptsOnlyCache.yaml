@@ -86,19 +86,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12966}
     - Class: 114
-      Script: {instanceID: 14166}
+      Script: {instanceID: 14164}
     - Class: 114
-      Script: {instanceID: 14188}
+      Script: {instanceID: 14186}
     - Class: 114
-      Script: {instanceID: 14668}
+      Script: {instanceID: 14666}
     - Class: 114
-      Script: {instanceID: 14974}
+      Script: {instanceID: 14972}
     - Class: 114
-      Script: {instanceID: 15274}
+      Script: {instanceID: 15272}
     - Class: 114
-      Script: {instanceID: 15332}
+      Script: {instanceID: 15330}
     - Class: 114
-      Script: {instanceID: 15366}
+      Script: {instanceID: 15364}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -157,27 +157,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13776}
     - Class: 114
-      Script: {instanceID: 14166}
+      Script: {instanceID: 14164}
     - Class: 114
-      Script: {instanceID: 14198}
+      Script: {instanceID: 14196}
     - Class: 114
-      Script: {instanceID: 14266}
+      Script: {instanceID: 14264}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14440}
     - Class: 114
-      Script: {instanceID: 14556}
+      Script: {instanceID: 14554}
     - Class: 114
-      Script: {instanceID: 14668}
+      Script: {instanceID: 14666}
     - Class: 114
-      Script: {instanceID: 15142}
+      Script: {instanceID: 15140}
     - Class: 114
-      Script: {instanceID: 15274}
+      Script: {instanceID: 15272}
     - Class: 114
-      Script: {instanceID: 15332}
+      Script: {instanceID: 15330}
     - Class: 114
-      Script: {instanceID: 15468}
+      Script: {instanceID: 15466}
     - Class: 114
-      Script: {instanceID: 19346}
+      Script: {instanceID: 15834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -987,4 +987,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Loading.unity
   - Assets/Scenes/Map.unity
-  playerPath: C:/Users/Luka/Desktop/AlsetSutrioTest/Luka2dMmoMap.apk
+  playerPath: C:/Users/Luka/Documents/GitHub/2dMmoMap/Luka2dMmoMap.apk
